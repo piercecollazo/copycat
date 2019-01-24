@@ -26,15 +26,66 @@
     
 }
 
+#English{
+    position: relative;
+    top: 30px;
+    left: 30px;
+}
+
 #Japanese{
     text-align: right;
+    position: relative;
+    left: 30px;
+    top: 30px;
+}
+
+#German{
+    position: relative;
+    left: 5px;
+    top: 60px;
 }
 
 #Russian{
     text-align: right;
     position: relative;
-    left: 60px;
-    top: 30px;
+    left: 65px;
+    top: 60px;
 }
 
-#
+#French{
+    position: relative;
+    left: 10px;
+}
+
+#Italian{
+    position: relative;
+    bottom: 60px;
+    left: 15px;
+}
+
+#Chinese{
+    position: relative;
+    bottom: 60px;
+    left: 120px;
+}
+
+#Portugues{
+    position: relative;
+    bottom: 40px;
+    left: 40px;
+}
+
+#Polish{
+    position: relative;
+    bottom: 38px;
+    left: 95px;
+}
+
+.icons{
+    height: 60px;
+}
+
+q{
+    position: relative;
+    left: 40px;
+}
