@@ -1,4 +1,40 @@
+#Wikititle{
+    text-align: center;
+}
+
+#titleunder{
+    text-align: center;
+}
+
+#ReadWiki{
+    text-align: center;
+}
+
 .Languages{
     font-weight: bold;
+    text-align: center;
+    align-content: center;
+    position: relative;
+    left: 320px;
     
 }
+
+#mainlogo{
+    height: 200px;
+
+    
+    
+}
+
+#Japanese{
+    text-align: right;
+}
+
+#Russian{
+    text-align: right;
+    position: relative;
+    left: 60px;
+    top: 30px;
+}
+
+#
